@@ -1,1 +1,1 @@
-Student app
+Student app.
